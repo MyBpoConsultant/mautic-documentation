@@ -12,8 +12,9 @@ taxonomy:
 -------------------
 
 ## Mautic - vtiger CRM plugin
+* As of April 8, 2020, This plugin only works with Vtiger Cloud Version and does not work with Vtiger Open Source. However, if you wish to use Vtiger Cloud, there are sync services that use the Api of Mautic and Open Source version of Vtiger (LeadsBridge, Zapier, Integromat, etc). 
 
-This plugin can push a contact to the vTiger CRM when a contact makes some action.
+This plugin can push a contact to the vTiger CRM when a contact makes some action. 
 
 If you don't have a vTiger CRM account yet, [create it][vTiger-crm].
 
